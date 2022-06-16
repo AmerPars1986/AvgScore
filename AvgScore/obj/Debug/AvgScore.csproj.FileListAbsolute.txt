@@ -1,0 +1,8 @@
+C:\Users\ababu\source\repos\AvgScore\AvgScore\bin\Debug\AvgScore.exe.config
+C:\Users\ababu\source\repos\AvgScore\AvgScore\bin\Debug\AvgScore.exe
+C:\Users\ababu\source\repos\AvgScore\AvgScore\bin\Debug\AvgScore.pdb
+C:\Users\ababu\source\repos\AvgScore\AvgScore\obj\Debug\AvgScore.csproj.AssemblyReference.cache
+C:\Users\ababu\source\repos\AvgScore\AvgScore\obj\Debug\AvgScore.csproj.SuggestedBindingRedirects.cache
+C:\Users\ababu\source\repos\AvgScore\AvgScore\obj\Debug\AvgScore.csproj.CoreCompileInputs.cache
+C:\Users\ababu\source\repos\AvgScore\AvgScore\obj\Debug\AvgScore.exe
+C:\Users\ababu\source\repos\AvgScore\AvgScore\obj\Debug\AvgScore.pdb
