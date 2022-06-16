@@ -12,13 +12,13 @@ namespace AvgScore
         {
             int totalScore = 0;
             int numStudents = 0;
-            int avgScore = 0;
+
             int studentScore;
             bool success = false;
 
             while (true)
             {
-                Console.WriteLine("Please enter your score (1-20):");
+                Console.WriteLine("Please enter students score (1-20):");
                 string userInput = Console.ReadLine();
                 success = int.TryParse(userInput, out studentScore);
                 if (success && studentScore <= 20)
@@ -30,7 +30,7 @@ namespace AvgScore
                     }
                     else
                     {
-                        avgScore = totalScore / numStudents;
+                        double avgScore = (double)totalScore / (double)numStudents;
                         Console.WriteLine("Between {0} students, the average score was {1}", numStudents, avgScore);
                         break;
                     }
@@ -38,6 +38,7 @@ namespace AvgScore
                 else
                 {
                     Console.WriteLine("Invalid Input");
+                    continue;
                 }
             }
             Console.ReadLine();
